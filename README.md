@@ -13,7 +13,7 @@
 - Tools: Docker, Git, FreeRTOS, Webots, Unity, OpenCV, Boost and more.
 
 ## GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&count_private=true&hide_title=true&line_height=21&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" />
 
 ## Languages
 ![English](https://img.shields.io/badge/English-Proficient-blue)
