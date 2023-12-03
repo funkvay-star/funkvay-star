@@ -4,7 +4,7 @@
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourUsername.yourRepoId)
 
 - 🔭 I’m currently working on [EduCloud](https://github.com/funkvay-star/EduCloud)
-- 🌱 I’m currently learning [Golang]
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on projects involving C++, Python, Golang, and Rust.
 - 📫 How to reach me: [Email](mailto:aram.harutyunyan.dec@gmail.com)
 
