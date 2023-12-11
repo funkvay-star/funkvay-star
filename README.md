@@ -12,7 +12,7 @@
 # Hi there, I'm Aram Harutyunyan
 ### Software Engineer & System Programmer
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourUsername.yourRepoId)
+![Profile Views](https://komarev.com/ghpvc/?username=funkvay-star&color=640eab)
 
 
 <!-- How to contact me -->
