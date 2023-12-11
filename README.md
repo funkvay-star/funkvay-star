@@ -42,7 +42,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" alt="C#"></code>
 <code><img height="50" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="Golang"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/512px-Original_Ferris.svg.png" alt="Rust"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/28/ASM_International_logo.svg" alt="Assembly"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/28/ASM_International_logo.svg" alt="Assembly"></code>
 </p>
 
 
