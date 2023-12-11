@@ -63,7 +63,11 @@
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funkvay-star&theme=tokyonight&layout=compact&border_color=531785&exclude_repo=Coursework1" />
 </p>
+
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&border_color=531785) -->
@@ -77,6 +81,11 @@
 Developing my EduCloud telegram bot
 ```
 <!-- END SECTION -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=funkvay-star&theme=tokyo-night" />
+</p>
+
 
 <br>
 
@@ -92,7 +101,6 @@ Developing my EduCloud telegram bot
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/512px-Original_Ferris.svg.png" alt="Rust"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/28/ASM_International_logo.svg" alt="Assembly"></code>
 </p>
-
 
 <!-- Tools -->
 <p>
