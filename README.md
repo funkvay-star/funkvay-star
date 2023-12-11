@@ -97,16 +97,16 @@ Developing my EduCloud telegram bot
 <!-- Tools -->
 <p>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906" alt="Git"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="Git"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/265px-Tux.svg.png" alt="Linux"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="PostgreSQL"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FreeRTOS_logo_2005.svg/238px-FreeRTOS_logo_2005.svg.png?20170827135614" alt="FreeRTOS"></code>
-<code><img height="40" src="https://cyberbotics.com/assets/images/webots.png" alt="Webots"></code>
-<code><img height="40" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="Unity"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/512px-Ros_logo.svg.png" alt="ROS2"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Boost.png" alt="C++/Boost"></code>
+<code><img height="50" src="https://www.svgrepo.com/show/331626/unity.svg" alt="Unity"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/487px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FreeRTOS_logo_2005.svg/238px-FreeRTOS_logo_2005.svg.png?20170827135614" alt="FreeRTOS"></code>
+<code><img height="50" src="https://www.theconstructsim.com/wp-content/uploads/2022/07/ROS-inside-white.png" alt="ROS2"></code>
+<code><img height="40" src="https://cyberbotics.com/assets/images/webots.png" alt="Webots"></code>
 </p>
 
 <!-- Actual languages -->
