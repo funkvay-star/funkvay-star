@@ -16,9 +16,22 @@
 
 
 <!-- How to contact me -->
-[![Linkedin](https://img.shields.io/badge/-arharu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arharu)
-[![Telegram](https://img.shields.io/badge/-@diploma_hold_my_beer-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/diploma_hold_my_beer)
-[![Gmail](https://img.shields.io/badge/-aram.harutyunyan.dec@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aram.harutyunan.dec@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/arharu">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" />
+  </a> : arharu
+</p>
+<p>
+  <a href="https://t.me/diploma_hold_my_beer">
+    <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png?20220101141644" alt="Telegram" />
+  </a> : @diploma_hold_my_beer
+</p>
+<p>
+  <a href="mailto:aram.harutyunan.dec@gmail.com">
+    <img height="20" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" />
+  </a> : aram.harutyunyan.dec@gmail.com
+</p>
+
 
 <!-- My projects -->
 <br />
