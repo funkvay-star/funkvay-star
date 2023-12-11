@@ -25,8 +25,19 @@
 
 <div><h3>The projects I am currently working on: </h3></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=EduCloud&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/EduCloud)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=Csv_json_converter&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/Csv_json_converter)
+<p align="center">
+  <a href="https://github.com/funkvay-star/EduCloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=EduCloud&border_color=531785&theme=tokyonight" />
+  </a>
+  <br>
+  <a href="https://github.com/funkvay-star/Csv_json_converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=Csv_json_converter&border_color=531785&theme=tokyonight" />
+  </a>
+</p>
+
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=EduCloud&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/EduCloud)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=funkvay-star&repo=Csv_json_converter&border_color=531785&theme=tokyonight)](https://github.com/funkvay-star/Csv_json_converter) -->
 
 <br />
 
@@ -37,7 +48,11 @@
 - 📫 How to reach me: [Email](mailto:aram.harutyunyan.dec@gmail.com)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785" />
+</p>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=tokyonight&include_all_commits=true&show_owner=true&border_color=531785) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=funkvay-star&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&border_color=531785) -->
 
 
